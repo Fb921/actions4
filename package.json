@@ -1,6 +1,6 @@
 {
-  "name": "actions4",
-  "version": "0.1.1",
+  "name": "@fb921/actions4",
+  "version": "0.1.2",
   "private": false,
   "type":"module",
   "main":"src/index.js",
